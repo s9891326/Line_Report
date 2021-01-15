@@ -21,6 +21,7 @@
     - 利用Line Notify進行群組通知並顯示圖片
 
 ### 運行步驟
+[flow](flow.png)
 
 ### 技術說明
 - [Line Notify 綁定步驟](#linenotify綁定步驟)
